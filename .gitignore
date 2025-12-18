@@ -54,3 +54,19 @@ logs/
 tmp/
 *.tmp
 *.bak
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.metadata/
+.project
+.classpath
+.settings/
+
+# Compiled output
+bin/
+out/
+target/
+build/
