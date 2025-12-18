@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding=".idea/" kind="src" path="leet-code-codebase"/>
+	<classpathentry kind="src" path="leet-code-codebase/.idea"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

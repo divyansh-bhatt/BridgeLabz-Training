@@ -1,3 +1,4 @@
+package com.leetcode;
 import java.util.*;
 public class FracToRecDec {
     public static String fractionToDecimal(int numerator, int denominator) {

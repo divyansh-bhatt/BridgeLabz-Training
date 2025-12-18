@@ -1,3 +1,4 @@
+package com.leetcode;
 import java.util.*;
 public class StringCompression {
     public static int compress(char[] chars) {
