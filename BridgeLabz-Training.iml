@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/gcr-codebase" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gcr-codebase/programming-elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leet-code-codebase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core-java-practice/gcr-codebase/control-flow" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
