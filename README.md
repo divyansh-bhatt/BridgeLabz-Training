@@ -77,13 +77,13 @@ BridgeLabz-Training/
 
 ### 20-Dec-2025 (Saturday)
 
-- Completed Level 1, Level 2, and Level 3 Control Flow problems
+- Completed Level 1, Level 2, and Level 3 Arrays problems
 - Link: https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase
 ---
 
 ### 22-Dec-2025 (Monday)
 
-- Completed Level 1, Level 2, and Level 3 Control Flow problems
+- Completed Level 1, Level 2, and Level 3 Strings problems
 - Link: https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
 ---
 
