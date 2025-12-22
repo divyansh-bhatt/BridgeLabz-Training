@@ -81,6 +81,12 @@ BridgeLabz-Training/
 - Link: https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase
 ---
 
+### 22-Dec-2025 (Monday)
+
+- Completed Level 1, Level 2, and Level 3 Control Flow problems
+- Link: https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
+---
+
 ## Author
 
 **Divyansh Bhatt**  
