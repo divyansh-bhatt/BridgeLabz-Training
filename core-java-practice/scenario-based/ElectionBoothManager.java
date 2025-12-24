@@ -60,7 +60,5 @@ public class ElectionBoothManager {
         }
         // display final result
         displayResults(votes);
-
-        sc.close();
     }
 }

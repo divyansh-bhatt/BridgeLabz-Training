@@ -35,7 +35,5 @@ public class MetroFareDeduction {
             balance = deductBalance(balance, fare);
             System.out.println("Fare Deducted: " + fare);
         }
-
-        sc.close();
     }
 }
