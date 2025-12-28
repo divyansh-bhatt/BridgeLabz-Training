@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/core-java-practice/gcr-codebase/strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/core-java-practice/scenario-based" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/core-java-practice/gcr-codebase/methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reviews/src/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reviews/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
