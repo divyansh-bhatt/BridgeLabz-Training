@@ -1,4 +1,4 @@
-public class UnitConverter {
+public class UnitConverter3 {
 
     public static double convertFarhenheitToCelsius(double fahrenheit) {
         double farhenheit2celsius = (fahrenheit - 32) * 5.0 / 9.0;

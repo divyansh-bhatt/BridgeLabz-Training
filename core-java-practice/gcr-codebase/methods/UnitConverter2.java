@@ -1,4 +1,4 @@
-public class UnitConverter {
+public class UnitConverter2 {
 
     public static double convertYardsToFeet(double yards) {
         double yards2feet = 3;
