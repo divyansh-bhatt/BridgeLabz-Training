@@ -75,10 +75,9 @@ BridgeLabz-Training/
 - Studied Java history and features
 - Solved elementary Java problems
 
-### 20-Dec-2025 (Saturday)
+### 20-Dec-2025 (Saturday)[Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
 - Completed Level 1, Level 2, and Level 3 Arrays problems
-- Link: https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase
 ---
 
 ### 22-Dec-2025 (Monday) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
