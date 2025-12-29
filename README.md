@@ -81,11 +81,38 @@ BridgeLabz-Training/
 - Link: https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase
 ---
 
-### 22-Dec-2025 (Monday)
+### 22-Dec-2025 (Monday) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 - Completed Level 1, Level 2, and Level 3 Strings problems
-- Link: https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
 ---
+
+### 23-Dec-2025 (Tuesday) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+- Completed Level 2, and Level 3 String Problems
+
+### 24-Dec-2025 (Wednesday) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+- Completed Level 1 Java Methods
+
+### 25-Dec-2025 (Thursday) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+- Completed Level 2, and Level 3 Java Methods
+
+### 26-Dec-2025 (Friday) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+- Completed Practice Assignment String
+
+### 27-Dec-2025 (Saturday) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+- Completed EXTRAS - Built-In Function Practice Problem
+
+### 28-Dec-2025 (Sunday) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+- Completed EXTRAS - Built-In Function Practice Problem
+
+### 29-Dec-2025 (Monday) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+- Completed Scenario Based
 
 ## Author
 
