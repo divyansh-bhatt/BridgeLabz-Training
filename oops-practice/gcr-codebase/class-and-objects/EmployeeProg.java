@@ -1,4 +1,4 @@
-class Employee {
+public class EmployeeProg {
     String name;
     int id;
     double salary;
@@ -10,7 +10,7 @@ class Employee {
     }
 
     public static void main(String[] args) {
-        Employee e = new Employee();
+        EmployeeProg e = new EmployeeProg();
         e.name = "Rohan";
         e.id = 1;
         e.salary = 500000;
