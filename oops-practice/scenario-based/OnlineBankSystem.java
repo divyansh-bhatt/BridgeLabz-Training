@@ -19,23 +19,23 @@ interface BankService{
 }
 abstract class Account{
 
-    protected int accountNumber;
+    protected String accountNumber;
     protected String holderName;
     protected double balance;
     protected List<String> transactionHistory = new ArrayList<>();
 
-    public Account(int accountNumber, String holderName, double balance) {
+    public Account(String accountNumber, String holderName, double balance) {
         this.accountNumber = accountNumber;
         this.holderName = holderName;
         this.balance = balance;
     }
 
-    public synchronized void deposit(double amount) {
+    public void deposit(double amount) {
         balance += amount;
         transactionHistory.add("Deposited: ₹" + amount);
     }
 
-    public synchronized void withdraw(double amount) throws InsufficientBalanceException {
+    public void withdraw(double amount) throws InsufficientBalanceException {
         if (balance < amount) {
             throw new InsufficientBalanceException("Insufficient balance!");
         }
@@ -55,7 +55,7 @@ abstract class Account{
     public abstract double calculateInterest();
 }
 class SavingsAccountC extends Account{
-    public SavingsAccountC(int accountNumber, String holderName, double balance) {
+    public SavingsAccountC(String accountNumber, String holderName, double balance) {
         super(accountNumber, holderName, balance);
     }
 
@@ -65,7 +65,7 @@ class SavingsAccountC extends Account{
     }
 }
 class CurrentAccount extends Account{
-    public CurrentAccount(int accountNumber, String holderName, double balance) {
+    public CurrentAccount(String accountNumber, String holderName, double balance) {
         super(accountNumber, holderName, balance);
     }
 
@@ -76,7 +76,7 @@ class CurrentAccount extends Account{
 }
 class BankServiceImpl implements BankService {
 
-    private Map<Integer, Account> accounts = new HashMap<>();
+    private Map<String, Account> accounts = new HashMap<>();
 
     @Override
     public void createAccount(Account account) {
@@ -116,8 +116,8 @@ public class OnlineBankSystem {
     public static void main(String[] args) {
         BankService bank = new BankServiceImpl();
 
-        Account acc1 = new SavingsAccount(101, "Divyansh", 50000);
-        Account acc2 = new CurrentAccount(102, "Rohan", 30000);
+        Account acc1 = new SavingsAccountC("101", "Divyansh", 50000);
+        Account acc2 = new CurrentAccount("102", "Rohan", 30000);
 
         bank.createAccount(acc1);
         bank.createAccount(acc2);
