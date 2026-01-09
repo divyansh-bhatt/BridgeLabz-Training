@@ -104,9 +104,10 @@ public class FlightBookingApp {
     public static void main(String[] args) {
 
         FlightBookingSystem system = new FlightBookingSystem();
-        system.searchFlights("delhi", "mumbai");
-        system.bookFlight(101, "Rahul");
-        system.bookFlight(102, "Anita");
+//
+        system.searchFlights("delhi","mumbai");
+        system.bookFlight(101,"Rahul");
+        system.bookFlight(102,"Anita");
         system.viewBookings();
         system.cancelBooking(1);
         system.viewBookings();
