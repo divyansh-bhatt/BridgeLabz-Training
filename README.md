@@ -42,12 +42,46 @@ BridgeLabz-Training/
 |   |   +-- programming-elements/
 |   |   |
 |   |   +-- control-flow/
+|   |   |
+|   |   +-- arrays/
+|   |   |
+|   |   +-- string/
+|   |   |
+|   |   +-- methods/
 |   |
 |   +-- leet-code-codebase/
 |   |
 |   +-- scenario-based/
 |
-+-- README.md
++-- oops-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- class-and-object/
+|   |   |
+|   |   +-- constructors-and-varaibles/
+|   |   |
+|   |   +-- inheritance/
+|   |   |
+|   |   +-- javakeywords/
+|   |   |
+|   |   +-- oops-pillars/
+|   |   |
+|   |   +-- uml-diagram/
+|   |   |
+|   |   +-- 
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+|
++-- dsa-practice/(Branch & Folder Name)
+|   |
+|   +-- dsa-practice/
+|   |   |
+|   |   +-- linked-list/
+|   |   +-- hashmaps/
+|   |   +-- stack-and-queue/
+|
 ```
 
 ---
