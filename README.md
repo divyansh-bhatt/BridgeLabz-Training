@@ -153,6 +153,13 @@ BridgeLabz-Training/
 - Solved OOPs Scenario Based Practice Problems [Click here for reference](https://github.com/divaynsh-bhatt/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 - Solved LeetCode Questions [Click here for reference](https://github.com/divaynsh-bhatt/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)
 
+### 12-Jan-2026 (Monday)
+- Solved OOPs Scenario Based Practice Problems [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+### 13-Jan-2026 (Tuesday)
+- Solved DSA Practice Problems (Stack & Queue) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/dsa-practice/dsa-practice/stack-and-queue)
+- Solved DSA Practice Problems (HashMap) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/dsa-practice/dsa-practice/hashmaps)
+
 ## Author
 
 **Divyansh Bhatt**  
