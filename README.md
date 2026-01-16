@@ -194,6 +194,12 @@ BridgeLabz-Training/
 - Solved DSA Practice Problems (Stack & Queue) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/dsa-practice/dsa-practice/stack-and-queue)
 - Solved DSA Practice Problems (HashMap) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/dsa-practice/dsa-practice/hashmaps)
 
+### 14-Jan-2026 (Wednesday)
+- Solved DSA Practice Problems (Sorting Algorithms) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/dsa-practice/dsa-practice/sorting)
+
+### 15-Jan-2026 (Thursday)
+- Solved DSA Practice Problems (Sorting Algorithms) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/dsa-practice/dsa-practice/sorting)
+
 ## Author
 
 **Divyansh Bhatt**  
