@@ -1,3 +1,7 @@
+package addressbook;
+
+import addressbook.AddressBookRepository;
+
 public class AddressBookService {
     AddressBookRepository addressBookRepository ;
 

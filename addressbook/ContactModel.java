@@ -1,3 +1,5 @@
+package addressbook;
+
 class ContactModel {
 
     private String firstName;
@@ -42,35 +44,27 @@ class ContactModel {
     public String getFirstName(){
         return firstName;
     }
-
-
     public String toString() {
-        return firstName + " " + lastName + ", " + address + ", " + city +
-                ", " + state + " - " + zip +
-                ", Phone: " + phoneNumber +
-                ", Email: " + email;
+        return "Name: "+firstName+" "+lastName + ", Address: "+address +", "+city+
+                ", "+state+" - "+zip+
+                ", Phone: "+phoneNumber+
+                ", Email: "+email;
     }
-
     public String getPhoneNumber() {
         return phoneNumber;
     }
-
     public String getEmail() {
         return email;
     }
-
     public String getState() {
         return state;
     }
-
     public String getZip() {
         return zip;
     }
-
     public String getCity() {
         return city;
     }
-
     public String getAddress() {
         return address;
     }
