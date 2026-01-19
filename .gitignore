@@ -1,0 +1,11 @@
+# IDE folders
+.idea/
+.metadata/
+
+# Build/output folders
+out/
+bin/
+
+# IDE files
+.classpath
+*.iml
