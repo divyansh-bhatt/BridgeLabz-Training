@@ -32,7 +32,7 @@ class KetoMeal implements MealPlan {
     }
 }
 
-class HighProteinMeal implements MealPlan {
+class HighProteinMeal implements MealPlan{
     public String getMealType() {
         return "High Protein";
     }
