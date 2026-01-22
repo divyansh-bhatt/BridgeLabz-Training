@@ -187,6 +187,8 @@ BridgeLabz-Training/
 - Solved OOPs Scenario Based Practice Problems [Click here for reference](https://github.com/divaynsh-bhatt/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 - Solved LeetCode Questions [Click here for reference](https://github.com/divaynsh-bhatt/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)
 
+## Week 5: Continuing with Core Java, OOPs Principles, and DSA Based Practice Problems
+
 ### 12-Jan-2026 (Monday)
 - Solved OOPs Scenario Based Practice Problems [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
@@ -199,6 +201,27 @@ BridgeLabz-Training/
 
 ### 15-Jan-2026 (Thursday)
 - Solved DSA Practice Problems (Sorting Algorithms) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/dsa-practice/dsa-practice/sorting)
+
+### 16-Jan-2026 (Friday)
+- Solved DSA Practice Problems (Linear & Binary Search) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/dsa-practice/dsa-practice/linear-binary-search)
+
+### 17-Jan-2026 (Saturday)
+- Solved DSA Practice Problems (Runtime Analysis & Big-O Notation) [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/dsa-practice/dsa-practice/runtime-analysis)
+- Solved OOPs Scenario Based Practice Problems [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## Week 6: Continuing with Java , OOPs Principles, and DSA Based Practice Problems
+
+### 19-Jan-2026 (Monday)
+- Solved Java (Generics) Based Practice Problems [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/generics)
+- Solved OOPs & DSA Scenario Based Practice Problem [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+### 20-Jan-2026 (Tuesday)
+- Completed Java (Generics) Based Practice Problems [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/generics)
+- Solved DSA Scenario Based Practice Problem [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+### 21-Jan-2026 (Wednesday)
+- Solved Java (Collections) List, Set, Queue & Map Based Practice Problems [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/interfaces)
+- Solved DSA Scenario Based Practice Problem
 
 ## Author
 
