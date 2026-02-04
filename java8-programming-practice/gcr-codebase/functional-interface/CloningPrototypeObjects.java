@@ -25,7 +25,7 @@ class ProductC implements Cloneable {
 
 public class CloningPrototypeObjects {
 
-    public static void main(String[] args) {
+    public static void main(String[]args) {
 
         try {
             ProductC original = new ProductC(101, "Laptop", 75000);
