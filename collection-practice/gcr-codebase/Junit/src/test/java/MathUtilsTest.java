@@ -1,6 +1,6 @@
 package src.test.java;
 
-import Junit.src.main.java.org.example.MathUtils;
+import src.main.java.org.example.MathUtils;
 import org.junit.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
