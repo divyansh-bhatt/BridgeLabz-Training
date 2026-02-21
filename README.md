@@ -223,6 +223,88 @@ BridgeLabz-Training/
 - Solved Java (Collections) List, Set, Queue & Map Based Practice Problems [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/interfaces)
 - Solved DSA Scenario Based Practice Problem
 
+[12:02 PM, 2/21/2026] Manas: ### 22-Jan-2026 (Thursday)
+- Solved Java (Collections) List, Set, Queue & Map Based Practice Problems [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/interfaces)
+
+### 23-Jan-2026 (Friday)
+- Solved Java (Collections) List, Set, Queue & Map Based Practice Problems [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/interfaces)
+- Solved Collections Scenario Based Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario-based)
+
+### 24-jan-2026 (Saturday)
+- Solved Java Stream Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/streams)
+
+## Week 7: Continuing with Java (Collections, Streams) , OOPs Principles, and DSA Based Practice Problems
+
+### 26-Jan-2026 (Monday)
+- Completed Java Stream Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/streams)
+
+### 27-Jan-2026 (Tuesday)
+- Solved Exception Handling Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/exceptions)
+
+### 28-Jan-2026 (Wednesday)
+- Solved Lexical Twist Scenario Based Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/LexicalTwist.java)
+- Solved Scenario Based Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/scenario-based)
+
+### 29-Jan-2026 (Thursday)
+- Solved JUnit Testing Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/Junit)
+
+### 30-Jan-2026 (Friday)
+- Solved Java Regex Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex)
+- Completed JUnit Testing Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/Junit)
+
+### 31-Jan-2026 (Saturday)
+- Solved Java Reflections Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/reflection)
+- Solved Java Annotations Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/annotations)
+
+## Week 8: Continuing with Java8 Features , OOPs Principles, and DSA Based Practice Problems
+
+### 2-Feb-2026 (Monday)
+- Solved Java Stream API Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/streamapi)
+
+### 3-Feb-2026 (Tuesday)
+- Solved Stream Buzz Scenario Based Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/StreamBuzz)
+- Solved CSV Data Handling Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv)
+[2:42 PM, 2/21/2026] Manas: ### 3-Feb-2026 (Tuesday)
+- Solved Stream Buzz Scenario Based Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/StreamBuzz)
+- Solved CSV Data Handling Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv)
+- Solved Factory Robot Hazard Analyzer Scenario Based Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/RobotHazardAuditor.java)
+- Solved CSV Data Handling Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv)
+- Solved Stream API Practice Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/streamapi)
+
+### 4-Feb-2026 (Wednesday)
+- Solved JSON Data Practice Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/jsonData)
+- Solved Functional Interface Practice Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/functional-interface)
+- Solved Lambda Expression Practice Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/lambda-expression)
+
+### 5-Feb-2026 (Thursday)
+- Solved AeroVigil DSA Practice Problem [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/dsa-practice/dsa-practice/aerovigil)
+- Solved Collectors Practice Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/collectors)
+- 
+ ### 6-Feb-2026 (Friday)
+- Solved Design Pattern Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/gcr-codebase)
+
+### 7-Feb-2026 (Saturday)
+- Solved Ocean Fleet Scenario Based Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/OceanFleet.java)
+
+## Week 9: Continuing with Java8 Features, JUnit Testing, OOPs Principles, and DSA Based Practice Problems
+
+### 8-Feb-2026 (Sunday)
+- Solved Multithreading Practice Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/multithreading-practice/multithreading-practice/gcr-codebase/multi-threading)
+
+### 9-Feb-2026 (Monday)
+- Solved JUnit Testing Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/Junit)
+- Solved Event Feedback & Rating analyzer Scenario Based Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/EventFeedbackAnalyzer.java)
+- Solved Job Portal Resume Shortlisting Scenario Based Ques [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/blob/collection-practice/collection-practice/scenario-based/JobPortalResumeShortlisting.java)
+- Solved JDBC & DBMS(MySQL) Practice Problems [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/jdbc-java-practice/jdbc-java-practice/gcr-codebase/health-clinic-app)
+
+## Week 10: Continuing with Java8 Features, OOPs Principles, and DSA Based Practice Problems
+
+### 16-Feb-2026 (Monday)
+- Solved Employee Wage Computation Problem [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based/employee-wage-computation)
+
+### 17-Feb-2026 (Tuesday)
+- Solved Address book Problem Solution [Click here for reference](https://github.com/divyansh-bhatt/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/addressbook)
+
 ## Author
 
 **Divyansh Bhatt**  
