@@ -1,0 +1,50 @@
+1. Install Sonarqube community edition
+2. Run C:\sonarqube\bin\windows-x86-64\StartSonar.bat on windows
+3. Wait few seconds then Open browser: http://localhost:9000
+4. Login username: admin
+         password: admin
+5. Create Project and set Project key: junit-project, token will be generated, copy it
+6. add this to pom.xml
+<build>
+    <plugins>
+        <!-- Run JUnit tests -->
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>3.2.5</version>
+        </plugin>
+        <!-- Code coverage -->
+        <plugin>
+            <groupId>org.jacoco</groupId>
+            <artifactId>jacoco-maven-plugin</artifactId>
+            <version>0.8.11</version>
+            <executions>
+                <execution>
+                    <goals>
+                        <goal>prepare-agent</goal>
+                    </goals>
+                </execution>
+                <execution>
+                    <id>report</id>
+                    <phase>test</phase>
+                    <goals>
+                        <goal>report</goal>
+                    </goals>
+                </execution>
+            </executions>
+        </plugin>
+        <!-- SonarQube -->
+        <plugin>
+            <groupId>org.sonarsource.scanner.maven</groupId>
+            <artifactId>sonar-maven-plugin</artifactId>
+            <version>3.10.0.2594</version>
+        </plugin>
+    </plugins>
+</build>
+7. Run sonaqube analysis
+mvn clean verify sonar:sonar ^
+  -Dsonar.projectKey=junit-project ^
+  -Dsonar.host.url=http://localhost:9000 ^
+  -Dsonar.token=YOUR_TOKEN
+8. Verify using http://localhost:9000, the sonarqube report will open
+

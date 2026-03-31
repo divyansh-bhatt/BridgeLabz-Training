@@ -1,0 +1,38 @@
+
+package src.test.java;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+import src.main.java.org.example.Program;
+
+public class UnitTest {
+
+    @Test
+    void Test_Deposit_ValidAmount() {
+        Program account = new Program(100);
+        account.deposit(50);
+
+        assertEquals(150, account.getBalance());
+    }
+
+    @Test
+    void Test_Deposit_NegativeAmount() {
+        Program account = new Program(100);
+
+        assertThrows(IllegalArgumentException.class, () -> account.deposit(-20));
+    }
+
+    @Test
+    void Test_Withdraw_ValidAmount() {
+        Program account = new Program(100);
+        account.withdraw(40);
+
+        assertEquals(60, account.getBalance());
+    }
+
+    @Test
+    void Test_Withdraw_InsufficientFunds() {
+        Program account = new Program(100);
+
+        assertThrows(IllegalArgumentException.class, () -> account.withdraw(200));
+    }
+}
